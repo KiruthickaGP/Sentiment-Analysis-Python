@@ -1,7 +1,9 @@
 **Sentiment Analysis in Python**
+
 This Python notebook demonstrates sentiment analysis using two different techniques: VADER (Valence Aware Dictionary and sEntiment Reasoner) and a pre-trained Roberta model from Hugging Face.
 
 **Steps Covered:**
+
 **Data Loading and EDA:**
 
 Read in the dataset and perform a quick exploratory data analysis.
